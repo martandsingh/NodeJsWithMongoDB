@@ -19,4 +19,4 @@ You can review gulp settings in gulpfile.js</p>
 Then run "npm install" to download dependencies. After that "node app.js".
 Congrats...your service is active now.</p>
 
-<h2>Happy to server you....Thanks</h2>
+<h2>Happy to serve you....Thanks</h2>
